@@ -1,0 +1,11 @@
+/* Style Painel Global */
+@import url('./global.css');
+
+/* Style Painel Header */
+@import url('./header.css');
+
+/* Style Last Login */
+@import url('./last-login.css');
+
+/* Style Main */
+@import url('./main.css');

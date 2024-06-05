@@ -1,0 +1,40 @@
+.team {
+  padding: 4rem 2rem;
+}
+
+.team h2 {
+  color: #222;
+  font-size: 2.5rem;
+  text-align: center;
+  margin-bottom: 4rem;
+}
+
+.list-team {
+  display: flex;
+  max-width: 1200px;
+  justify-content: space-between;
+  align-items: flex-start;
+  text-align: center;
+  gap: 4rem;
+}
+
+.list-team li span {
+  background-color: #ccc;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 1rem auto;
+}
+
+.list-team li h3 {
+  font-size: 1.5rem;
+  color: #222;
+  margin-bottom: 10px;
+  font-weight: 400;
+}
+
+.list-team li p {
+  color: #222;
+  line-height: 24px;
+}

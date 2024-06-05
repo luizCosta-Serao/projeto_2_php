@@ -1,0 +1,8 @@
+.last-login {
+  background-color: #555;
+  color: #fff;
+  padding: 1.5rem 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

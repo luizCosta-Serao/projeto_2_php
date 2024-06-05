@@ -1,0 +1,23 @@
+/* Style Global */
+@import url('./global.css');
+
+/* Style Header */
+@import url('./header.css');
+
+/* Style Hero */
+@import url('./hero.css');
+
+/* Style Signup */
+@import url('./signup-lead.css');
+
+/* Style Testimonial */
+@import url('./testimonial.css');
+
+/* Style Differences */
+@import url('./differences.css');
+
+/* Style Team */
+@import url('./team.css');
+
+/* Style Contact-Plans */
+@import url('./contact-plans.css');
